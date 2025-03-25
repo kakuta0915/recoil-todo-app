@@ -1,0 +1,16 @@
+.inputField {
+  margin-bottom: 1rem;
+}
+
+.inputText {
+  padding: 0.5rem;
+  margin-right: 0.75rem;
+  border: 1px solid #555;
+  border-radius: 2px;
+}
+
+.inputButton {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  border: 1px solid #555;
+}
