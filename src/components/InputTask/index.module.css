@@ -1,5 +1,7 @@
 .inputField {
   margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
 }
 
 .inputText {
@@ -7,10 +9,14 @@
   margin-right: 0.75rem;
   border: 1px solid #555;
   border-radius: 2px;
+  max-width: 300px;
+  width: 100%;
 }
 
 .inputButton {
   padding: 0.5rem 1rem;
   border-radius: 5px;
-  border: 1px solid #555;
+  border: none;
+  background-color: black;
+  color: white;
 }

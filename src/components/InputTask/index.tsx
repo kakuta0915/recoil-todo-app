@@ -19,7 +19,6 @@ function InputTask() {
   const onChange = useCallback(
     (e: React.ChangeEvent<HTMLInputElement>) => {
       setInputTask(e.target.value);
-      console.log(inputTask);
     },
     [inputTask]
   );
